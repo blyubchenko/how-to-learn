@@ -11,6 +11,7 @@
 
 .header__link {
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .header {
@@ -211,7 +212,7 @@
   background-repeat: no-repeat;
   background-size: 867px 637px;
   background-position: bottom 0px left 0px;
-  height: 890px;
+  min-height: 890px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -258,6 +259,9 @@
 }
 
 .kaufman__triangle {
+  background-image: url(../images/kaufman-triangle.svg);
+  background-size: 877px 877px;
+  background-repeat: no-repeat;
   position: absolute;
   right: -210px;
   width: 877px;
@@ -266,8 +270,6 @@
 
 .footer {
   background-color: #1f1f1f;
-  padding-top: 90px;
-  padding-bottom: 40px;
   min-height: 350px;
   display: flex;
   justify-content: center;
@@ -277,6 +279,8 @@
   width: 90%;
   display: flex;
   justify-content: space-between;
+  padding-top: 60px;
+  padding-bottom: 40px;
 }
 
 .footer__column {
