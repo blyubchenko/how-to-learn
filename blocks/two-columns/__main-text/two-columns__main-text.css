@@ -1,0 +1,7 @@
+.two-columns__main-text {
+  display: block;
+  width: 80%;
+  min-width: 784px;
+  position: relative;
+  right: 0;
+}
