@@ -15,4 +15,4 @@
 - Схема организации файловой структуры - Nested.
 
 ## Ссылка на сайт:
-https://github.com/blyubchenko/how-to-learn
+[https://github.com/blyubchenko/how-to-learn](https://blyubchenko.github.io/how-to-learn/)https://blyubchenko.github.io/how-to-learn/
